@@ -17,9 +17,12 @@
     "eslint-config-next": "13.4.10",
     "next": "13.4.10",
     "postcss": "8.4.26",
+    "primereact": "^9.6.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.1",
     "tailwindcss": "3.3.3",
-    "typescript": "5.1.6"
+    "typescript": "5.1.6",
+    "zod": "^3.21.4"
   }
 }

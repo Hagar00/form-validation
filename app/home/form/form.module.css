@@ -1,0 +1,22 @@
+.form{
+    display: grid;
+    row-gap: 0.5rem;
+    max-width: 65ch;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    padding: 3px;
+}
+.form input{
+    height: 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.form button{
+    width:30%;
+    padding:8px;
+    font-size:18px
+}
