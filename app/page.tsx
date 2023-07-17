@@ -1,5 +1,7 @@
 import Image from 'next/image'
+import '/node_modules/primeflex/primeflex.css';
 
+        
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
